@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joshitha K V</h1>
-<h3 align="center">A passionate fullstack developer and AI enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | Exploring React, Java, and Spring Boot</h3>
 
-🌱 Currently learning: Java, Spring Boot, React, and full-stack development
-💻 Building: Real-world frontend projects using HTML, CSS, JavaScript, and React
-🤝 Collaborating: Always open to learning and growing with developer communities
-📫 How to reach me joshitha.kv@gmail.com
+- 🌱 Currently learning: Java, Spring Boot, React, and full-stack development  
+- 💻 Building: Real-world frontend projects using HTML, CSS, JavaScript, and React  
+- 🤝 Collaborating: Always open to learning and growing with developer communities  
+- 📫 How to reach me: joshitha.kv@gmail.com  
 
 
 🌐 Connect with me:
