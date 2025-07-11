@@ -1,14 +1,21 @@
-Hi 👋, I'm Joshitha K V  
-A Computer Science student (2022–2026) passionate about building clean and responsive web apps.
+<h1 align="center">Hi 👋, I'm Joshitha K V</h1>
+<h3 align="center">A passionate fullstack developer and AI enthusiast</h3>
 
-- 🌱 Currently learning: Java, Spring Boot, React, and full-stack development
-- 💻 Building: Real-world projects using HTML, CSS, JavaScript, and React
-- 🤝 Collaborating: Always open to learning and growing with developer communities
-- 📫 Reach me at: joshithakv@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/joshitha-k-v-b17083259/
+🌱 Currently learning: Java, Spring Boot, React, and full-stack development
+💻 Building: Real-world frontend projects using HTML, CSS, JavaScript, and React
+🤝 Collaborating: Always open to learning and growing with developer communities
+📫 How to reach me joshitha.kv@gmail.com
 
 
- 🛠️ Tech Stack & Tools:
+🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/joshitha-k-v-b17083259/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
+  <a href="https://www.instagram.com/joshitha_kv/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="instagram" height="30" /></a>
+</p>
+
+
+
+🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
@@ -22,9 +29,6 @@ A Computer Science student (2022–2026) passionate about building clean and res
 
 
 📊 GitHub Stats:
-![Joshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshithaKV&show_icons=true&theme=radical)
-
- 🤝 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshitha-k-v)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your_username)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshithaKV&show_icons=true&theme=radical" alt="Joshitha's GitHub Stats" />
+</p>
