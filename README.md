@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshitha K V</h1>
-<h3 align="center">Aspiring Full Stack Developer | Exploring React, Java, and Spring Boot</h3>
+<h3 align="center">Aspiring Full Stack Developer | Exploring React, and Spring Boot</h3>
 
 - 🌱 Currently learning: Java, Spring Boot, React, and full-stack development  
 - 💻 Building: Real-world frontend projects using HTML, CSS, JavaScript, and React  
