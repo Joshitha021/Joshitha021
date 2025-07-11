@@ -8,6 +8,10 @@
 
 
 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshitha-k-v-b17083259/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshitha_kv/)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/joshitha-k-v-b17083259/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
   <a href="https://www.instagram.com/joshitha_kv/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="instagram" height="30" /></a>
