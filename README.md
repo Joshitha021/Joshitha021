@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Joshitha+K+V;Aspiring+Full-Stack+Developer;Front-End+Developer" />
 </h1>
 
-- 💻 Building: Real-world projects using HTML, CSS, JavaScript, and React  
+- 💻 Building: Real-world projects using Java, HTML, CSS, JavaScript, and React  
 - 🤝 Collaborating: Always open to learning and growing with developer communities  
 - 📫 How to reach me: joshitha.kv@gmail.com  
 
